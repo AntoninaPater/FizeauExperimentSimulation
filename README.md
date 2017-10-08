@@ -1,5 +1,5 @@
 # FizeauExperimentSimulation
-Simulation of the Fizeau's Experiment - java project
+Simulation of the Fizeau's Experiment - Java project
 
 Fizeau's Experiment was performed in order to measure speed of light using a set of mirrors and a rotating toothed wheel.
 Knowing the angular speed of the wheel and the distant from the wheel to the mirror Fizeau was able to calculate the speed of light in the 19th century.
